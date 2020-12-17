@@ -10,3 +10,5 @@ In this example, the MQTT Broker is assumed to exist on a different host and is 
 
 No filtering or other transformation functions occur in this example.
 No additional MQTT options (such as QOS or retry has been provided for with this example)
+
+![image](./app-service-influx.png)
