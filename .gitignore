@@ -1,0 +1,10 @@
+test.txt
+debug
+*.exe
+app-service-influx
+.vscode
+go.sum
+coverage.out
+logs/
+.idea
+VERSION

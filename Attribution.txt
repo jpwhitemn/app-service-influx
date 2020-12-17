@@ -1,0 +1,4 @@
+The following open source projects are referenced by app-service-influx:
+
+edgexfoundry/app-functions-sdk-go (Apache 2.0) https://github.com/edgexfoundry/app-functions-sdk-go
+https://github.com/edgexfoundry/app-functions-sdk-go/blob/master/LICENSE
